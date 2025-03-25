@@ -1,6 +1,6 @@
 /*
-/// Module: singmin_faucet
-module singmin_faucet::singmin_faucet;
+/// Module: task4
+module task4::task4;
 */
 
 // For Move coding conventions, see
