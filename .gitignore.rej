@@ -1,0 +1,6 @@
+diff a/.gitignore b/.gitignore	(rejected hunks)
+@@ -27,3 +27,4 @@
+ .history
+ *.Identifier
+ 
++.qodo
